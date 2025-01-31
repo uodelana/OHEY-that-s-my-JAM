@@ -2,7 +2,7 @@ package com.uodelana.oheythatsmyjam;
 
 public abstract class Shape {
 
-    String color = "red";
+    String color = "blue";
 
     private int x;
     private int y;
