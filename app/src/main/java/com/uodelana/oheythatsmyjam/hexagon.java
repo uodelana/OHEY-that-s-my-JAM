@@ -1,8 +1,8 @@
 package com.uodelana.oheythatsmyjam;
 
-public abstract class Shape {
-    String color = "red";
-    
+public abstract class hexagon {
+    String color = "pink";
+
     private int x;
     private int y;
 }
