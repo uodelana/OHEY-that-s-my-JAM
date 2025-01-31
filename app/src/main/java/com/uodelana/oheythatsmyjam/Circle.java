@@ -1,0 +1,19 @@
+public class Circle extends Shape {
+
+    private String color = "blue";  // as per lab-4
+
+    private int radius;
+
+    public Circle(int x, int y, int radius) {
+        super(x, y);
+        this.radius = radius;
+    }
+
+    public int getRadius() {
+        return radius;
+    }
+
+    public void setRadius(int radius) {
+        this.radius = radius;
+    }
+}
